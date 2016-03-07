@@ -1,0 +1,2 @@
+# ActivityIndicatorButton
+ActivityIndicatorButton = ActivityIndicator + Button
